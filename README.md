@@ -109,6 +109,17 @@ This project was built as a practical analytics and support-operations project f
 * Automated testing
 * Exporting filtered operational data
 
+## Screenshots
+
+### Dashboard
+![Support Metrics Lab Dashboard](screenshots/dashboard.png)
+
+### Performance
+![Support Metrics Lab Performance](screenshots/performance.png)
+
+### Ticket Investigation
+![Support Metrics Lab Ticket Investigation](screenshots/ticket-investigation.png)
+
 ## Project Status
 
 Completed and functional.
